@@ -24,7 +24,7 @@ A collection of web design projects showcasing various design and development sk
 ## Certificates
 
 1. **Certificate in Python Programming**
-   - [View Certificate]([./certificates/python_certificate.pdf](https://www.coursera.org/account/accomplishments/verify/ZSSYW7NXESRW))
+   - [View Certificate](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
 
 2. **Certificate in IoT and Embedded Systems**
    - [View Certificate](./certificates/iot_embedded_systems_certificate.pdf)
