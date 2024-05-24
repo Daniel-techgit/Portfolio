@@ -27,7 +27,9 @@ A collection of web design projects showcasing various design and development sk
    - [View Certificate](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
 
 2. **Certificate in IoT and Embedded Systems**
-   - [View Certificate](./certificates/iot_embedded_systems_certificate.pdf)
+   - [View Certificate](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Internet%20of%20things%20Specialization.pdf)
+   - [View Certificate](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Internet%20of%20things%20Specialization.pdf)
+
 
 3. **Certificate in Web Development**
    - [View Certificate](./certificates/web_development_certificate.pdf)
