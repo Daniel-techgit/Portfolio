@@ -12,13 +12,13 @@ I am a passionate software developer with expertise in Python, IoT, embedded sys
 
 ## Projects
 
-### [Peace House Book App](https://github.com/yourusername/PeaceHouseBookApp)
+### [Peace House Book App](https://github.com/Daniel-techgit?tab=repositories)
 A mobile application for managing and reading books. Utilizes Flutter for the front-end, Provider for state management, MongoDB for the database, and Next.js for the API backend.
 
-### [IoT Home Automation](https://github.com/yourusername/IoTHomeAutomation)
-An IoT project that allows users to control home appliances via a mobile app. Built with Arduino and Flutter.
+### [IoT Home Automation](https://github.com/Daniel-techgit?tab=repositories)
+An IoT learning project that allows users to control home appliances via a mobile app. Built with Arduino and Flutter.
 
-### [Mobile App Portfolio](https://github.com/yourusername/WebDesignPortfolio)
+### [Mobile App Portfolio](https://github.com/Daniel-techgit?tab=repositories)
 A collection of mobile app projects developed using Flutter, showcasing my growth, skills, and learning journey in mobile app development.
 
 ## Mobile App Portfolio
