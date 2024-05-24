@@ -18,8 +18,13 @@ A mobile application for managing and reading books. Utilizes Flutter for the fr
 ### [IoT Home Automation](https://github.com/yourusername/IoTHomeAutomation)
 An IoT project that allows users to control home appliances via a mobile app. Built with Arduino and Flutter.
 
-### [Web Design Portfolio](https://github.com/yourusername/WebDesignPortfolio)
-A collection of web design projects showcasing various design and development skills.
+### [Mobile App Portfolio](https://github.com/yourusername/WebDesignPortfolio)
+A collection of mobile app projects developed using Flutter, showcasing my growth, skills, and learning journey in mobile app development.
+
+## Mobile App Portfolio
+1. **Certificate in Python Programming**
+   - [View Certificate (IBM)](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
+   - [View Certificate (CISCO)](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
 
 ## Certificates
 
