@@ -37,7 +37,7 @@ A collection of web design projects showcasing various design and development sk
 
 4. **Certificate in Mathematics and Modelling**
    - [Certificate(Mathematics for Machine Learning)](https://drive.google.com/file/d/1ghrLmWay7XwkBVLAEzYQIic-sgmxqkgB/view?usp=drive_link)
-   - [Certificat(Infectious Disease Modelling)](https://drive.google.com/file/d/1R4Z90D8ENCCuSWiTEIB0bYbVOPNqL2OA/view?usp=drive_link)
+   - [Certificate(Infectious Disease Modelling)](https://drive.google.com/file/d/1R4Z90D8ENCCuSWiTEIB0bYbVOPNqL2OA/view?usp=drive_link)
 
 ## Contact
 - [Email](adefisoyed@gmail.com)
