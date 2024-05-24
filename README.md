@@ -24,17 +24,21 @@ A collection of web design projects showcasing various design and development sk
 ## Certificates
 
 1. **Certificate in Python Programming**
-   - [View Certificate](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
+   - [View Certificate (IBM)](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
+   - [View Certificate (CISCO)](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
 
 2. **Certificate in IoT and Embedded Systems**
-   - [View Certificate](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Internet%20of%20things%20Specialization.pdf)
-   - [View Certificate](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Internet%20of%20things%20Specialization.pdf)
+   - [View Certificate (Imperial College London)](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Internet%20of%20things%20Specialization.pdf)
+   - [View Certificate (CISCO)](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/DanielAdefisoye-IOT%20FUNDAMENTALS-certificate.pdf)
 
 
 3. **Certificate in Web Development**
    - [View Certificate](./certificates/web_development_certificate.pdf)
 
+4. **Certificate in Mathematics and Modelling**
+   - [Certificate(Mathematics for Machine Learning)](https://drive.google.com/file/d/1ghrLmWay7XwkBVLAEzYQIic-sgmxqkgB/view?usp=drive_link)
+   - [Certificat(Infectious Disease Modelling)](https://drive.google.com/file/d/1R4Z90D8ENCCuSWiTEIB0bYbVOPNqL2OA/view?usp=drive_link)
+
 ## Contact
-- [Email](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [Email](adefisoyed@gmail.com)
+- [LinkedIn](https:www.linkedin.com/in/daniel-adefisoye)
