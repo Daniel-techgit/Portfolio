@@ -34,12 +34,12 @@ A collection of mobile app projects developed using Flutter, showcasing my growt
    - [View Certificate (Imperial College London)](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Internet%20of%20things%20Specialization.pdf)
    - [View Certificate (CISCO)](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/DanielAdefisoye-IOT%20FUNDAMENTALS-certificate.pdf)
 
-3. **Certificate in Web Development**
-   - [View Certificate](./certificates/web_development_certificate.pdf)
-
-4. **Certificate in Mathematics and Modeling**
+3. **Certificate in Mathematics and Modeling**
    - [View Certificate (Mathematics for Machine Learning)](https://drive.google.com/file/d/1ghrLmWay7XwkBVLAEzYQIic-sgmxqkgB/view?usp=drive_link)
    - [View Certificate (Infectious Disease Modeling)](https://drive.google.com/file/d/1R4Z90D8ENCCuSWiTEIB0bYbVOPNqL2OA/view?usp=drive_link)
+  
+4. **Learning in Progress**
+   - [Flutter and Firebase Chat App](https://github.com/Daniel-techgit?tab=repositories)
 
 ## Contact
 - [Email](mailto:adefisoyed@gmail.com)
