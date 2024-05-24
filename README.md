@@ -21,7 +21,7 @@ A mobile application for managing and reading books. Utilizes Flutter for the fr
 ### [IoT Home Automation](https://github.com/Daniel-techgit?tab=repositories)
 An IoT learning project that allows users to control home appliances via a mobile app. Built with Arduino and Flutter.
 
-### [Mobile App Portfolio](https://github.com/Daniel-techgit?tab=repositories)
+### [Mobile Apps Portfolio](https://github.com/Daniel-techgit?tab=repositories)
 A collection of mobile app projects developed using Flutter, showcasing my growth, skills, and learning journey in mobile app development.
 
 ## Certificates
